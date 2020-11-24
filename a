@@ -1,0 +1,25 @@
+[33mcommit 1d50150fc3d0df90394acbb7686d562436436923[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jhensser Aguirre <aguirrejhensser@gmail.com>
+Date:   Thu Nov 19 20:29:11 2020 -0600
+
+    Agregamos el cambio de la persona
+    
+    Agregue dos parrafos más en los que hablo sobre mi historia
+
+[33mcommit e2d07876bf84ce3c195742832314603c8e964501[m
+Author: Jhensser Aguirre <aguirrejhensser@gmail.com>
+Date:   Thu Nov 19 20:27:20 2020 -0600
+
+    Agramos una línea más
+
+[33mcommit 25638b0a10b497d0487015d4b7408df9127a0381[m
+Author: Jhensser Aguirre <aguirrejhensser@gmail.com>
+Date:   Thu Nov 19 20:09:06 2020 -0600
+
+    Cambios al archivo de historia para agregar nacionalidad
+
+[33mcommit d135611a826f9785143cf386c50ecdbc77b91572[m
+Author: Jhensser Aguirre <aguirrejhensser@gmail.com>
+Date:   Thu Nov 19 19:45:06 2020 -0600
+
+    Este es el primer commit de este archivo
