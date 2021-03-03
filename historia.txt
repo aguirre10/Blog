@@ -1,11 +1,5 @@
-Esta es mi historia
+Esta es la historia de Freddy Vega
 
-Jhensser Aguirre tiene 20 años, estudia Ingeniería en Sistemas, Mercadotecnia, Marketing Digital
-Y soy de Guatemala
+Freddy Vega tiene 32 años y nació en Colombia
 
-<<<<<<< HEAD
-Hoy hablaremos de su vida y obra maestra
-=======
-Hoy hablaremos de su vida y obra maestra
-MDKSLMDSKLS
->>>>>>> cabecera
+Mañana nos enfocaremos en su vida laboral
