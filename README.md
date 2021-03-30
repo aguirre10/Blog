@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+Un blog increíble para el curso de Git y Github de Platzi hecho por Jhensser
 =======
 <<<<<<< HEAD
 # hyperblog
